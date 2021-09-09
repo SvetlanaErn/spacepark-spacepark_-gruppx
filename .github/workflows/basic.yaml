@@ -12,3 +12,5 @@ jobs:
         dotnet-version: 5.0.x
     - name: build
       run: dotnet build ./Source/
+    - name: run tests
+      run: dotnet test ./TestProject1/
