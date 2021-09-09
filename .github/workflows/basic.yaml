@@ -13,4 +13,4 @@ jobs:
     - name: build
       run: dotnet build ./Source/
     - name: run tests
-      run: dotnet test ./TestProject1/
+      run: dotnet test ./Source/SpaceTests/
