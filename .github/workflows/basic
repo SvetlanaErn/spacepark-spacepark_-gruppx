@@ -6,7 +6,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2 # checks out repository and downloads it to the runner 
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.x
