@@ -1,3 +1,5 @@
+[![build_and_test](https://github.com/SvetlanaErn/spacepark-spacepark_-gruppx/actions/workflows/basic.yaml/badge.svg)](https://github.com/SvetlanaErn/spacepark-spacepark_-gruppx/actions/workflows/basic.yaml)
+
 # Project 3 - SpacePark
 
 ![Spacepark](spacepark.jpg)
